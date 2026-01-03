@@ -2,6 +2,8 @@
 
 This project demonstrates how to build a single AI agent powered by the **Gemini 3** model using the **Google Agent Development Kit (ADK)**. The agent is equipped with the **Google Search Tool**, enabling it to access real-time information from the web. The application includes a local web interface and is designed for seamless deployment to **Google Cloud Run**.
 
+![Architecture Diagram](assets/ref_arch.jpeg)
+
 📺 **This project was inspired Smitha Kolan's tutorial:** [Build an AI Agent with Gemini 3](https://youtu.be/9EGtawwvlNs)
 
 ## 📚 Resources & References
