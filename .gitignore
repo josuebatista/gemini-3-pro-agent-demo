@@ -1,0 +1,39 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Testing and Coverage
+.pytest_cache/
+.coverage
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Model Weights
+*.pt
+*.pth
+*.onnx
+
+# Visual Source Code settings
+*.code-workspace
